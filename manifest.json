@@ -1,9 +1,0 @@
-{
-  "display_name": "Token 傳送計數器",
-  "loading_order": 10,
-  "js": "index.js",
-  "css": "style.css",
-  "author": "Custom",
-  "version": "1.0.0",
-  "auto_update": false
-}
